@@ -10,7 +10,7 @@ an application to rate ice creams.
 [002 Ice Cream](./002-Ice-cream.md)  
 [003 Authentification](./003-Authentification.md)  
 [004 Création](./004-Création.md)  
-[Référence de Commandes](./Référence de Commandes.txt)
+[Référence de Commandes](./Référence de Commandes.md)
 
 
 ---
