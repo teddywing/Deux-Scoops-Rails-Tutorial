@@ -44,9 +44,9 @@ Ice cream
 
 		<% if @ice_creams.present? %>
 			<ul>
-				<% @ice_creams.each do |ic| %>
+				<% @ice_creams.each do |ice_cream| %>
 					<li>
-						<%= ic.flavor %>, <%= ic.manufacturer %>
+						<%= ice_cream.flavor %>, <%= ice_cream.manufacturer %>
 					</li>
 				<% end %>
 			</ul>
