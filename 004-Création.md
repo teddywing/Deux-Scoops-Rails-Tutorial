@@ -68,7 +68,7 @@ On va ajouter un formulaire pour créer une nouvelle glace.
 		end
 
 	On essaye de sauvegarder la glace venant du formulaire. Si on réussi, on
-	redirect sur la page index du `IceCreamsController`, sinon on affiche le
+	redirect à la page index du `IceCreamsController`, sinon on affiche le
 	formulaire.
 
 7. Pour l'instant, nos glaces ne sont pas associés à un utilisateur. On va faire
