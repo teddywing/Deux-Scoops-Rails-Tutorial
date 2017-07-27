@@ -1,11 +1,11 @@
 Setup
 =====
 
-1. Créez une nouvelle application Rails:
+1. Créez une nouvelle application Rails :
 
 		$ rails new deux_scoops --database postgresql --skip-test
 
-2. Remplacez le contenu de `bin/setup` avec:
+2. Remplacez le contenu de `bin/setup` avec :
 
 		#!/bin/sh
 
