@@ -86,7 +86,7 @@ On va ajouter un formulaire pour créer une nouvelle glace.
 9. `rails db:migrate`
 
 10. On va ajouter des associations entre les modèles `User` et `IceCream`.
-	Mettez ces ligned dans les classes des modèles :
+	Mettez ces lignes dans les classes des modèles :
 
 		# app/models/ice_cream.rb
 		belongs_to :user
@@ -103,4 +103,4 @@ On va ajouter un formulaire pour créer une nouvelle glace.
 		@ice_cream = current_user.ice_creams.build(ice_cream_params)
 
 	Maintenant, quand on crée des glaces en passant par le formulaire, ces
-	records seront associées avec notre utilisateur.
+	records seront associés avec notre utilisateur.

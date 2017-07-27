@@ -24,7 +24,7 @@ Ice cream
 
 		root 'ice_creams#index'
 
-5. Dans un nouveau terminal, lancez la serveur de développement Rails :
+5. Dans un nouveau terminal, lancez le serveur de développement Rails :
 
 		rails s
 
@@ -36,7 +36,7 @@ Ice cream
 
 		@ice_creams = IceCream.all
 
-	Les variables d'instance, précédés par des `@`, sont accessibles dans les
+	Les variables d'instance, précédées par des `@`, sont accessibles dans les
 	templates.
 
 7. Ouvrez notre template index (`app/views/ice_creams/index.html.erb`).

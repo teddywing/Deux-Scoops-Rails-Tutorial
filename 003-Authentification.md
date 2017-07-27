@@ -9,11 +9,11 @@ nous donner de l'authentification.
 
 		gem 'clearance'
 
-2. Utilizes Bundler pour installer la gem :
+2. Utilisez Bundler pour installer la gem :
 
 		bundle install
 
-3. Pour installer Clearance, faitez :
+3. Pour installer Clearance, faites :
 
 		rails generate clearance:install
 
