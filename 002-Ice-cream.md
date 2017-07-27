@@ -53,7 +53,7 @@ Ice cream
 		<% end %>
 
 8. Rechargez la page dans votre navigateur. Vous devrez voir la glace que nous
-   avons crées avant affiché sur la page.
+   avons crées auparavant affiché sur la page.
 
 9. Ouvrez le layout (`app/views/layouts/application.html.erb`), et ajoutez cette
    ligne au-dessus du `<%= yield %>` :
